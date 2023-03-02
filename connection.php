@@ -1,7 +1,7 @@
 <?php
 session_start();
 error_reporting(0);
-$servername = "127.0.0.1";
+$servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "water-managment";
